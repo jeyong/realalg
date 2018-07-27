@@ -6,4 +6,8 @@
  * [Recursion](https://docs.google.com/presentation/d/16ljHlc9JaSD_pqV1YAyPojeH9-GmT_Nz0ie4qTEZTU4/edit?usp=sharing)
  * [Tree](https://docs.google.com/presentation/d/1zwJu2Z7mBg5znWhcyU1_C85Fzb27sCBTGzvFnpD0JFQ/edit?usp=sharing)
  * [Hash](https://docs.google.com/presentation/d/1WY3c5LuhFa1KxhB71P34aTccJ_4oIc1F05pgvp0LKi8/edit?usp=sharing)
- 
+ ----
+ * [Heap](https://docs.google.com/presentation/d/1FdnS21mnigkWIKG-zr5zBrjPdD1SbEvJ18FAcbaXIjs/edit?usp=sharing)
+ * [Graph](https://docs.google.com/presentation/d/1vONKil8zCh_Sf6rS1Co14eEIAmCT5u5_dasY6ldQL6Q/edit?usp=sharing)
+ * [Sorting](https://docs.google.com/presentation/d/1IqxaTjbMVcvF-RsSjsy65PJ2ExCeBnA7ZOjQgW037j8/edit?usp=sharing)
+ * 
