@@ -5,6 +5,7 @@
  * [Stack and Queue](https://docs.google.com/presentation/d/1jo3JhPSqsTIrZ2j4ThV6V6PWoulnn8z0M10aC9mzGqE/edit?usp=sharing)
  * [Recursion](https://docs.google.com/presentation/d/16ljHlc9JaSD_pqV1YAyPojeH9-GmT_Nz0ie4qTEZTU4/edit?usp=sharing)
  * [Tree](https://docs.google.com/presentation/d/1zwJu2Z7mBg5znWhcyU1_C85Fzb27sCBTGzvFnpD0JFQ/edit?usp=sharing)
+   * [Binary Search Tree C++](/bst.cpp)
  * [Hash](https://docs.google.com/presentation/d/1WY3c5LuhFa1KxhB71P34aTccJ_4oIc1F05pgvp0LKi8/edit?usp=sharing)
  ----
  * [Heap](https://docs.google.com/presentation/d/1FdnS21mnigkWIKG-zr5zBrjPdD1SbEvJ18FAcbaXIjs/edit?usp=sharing)
