@@ -13,6 +13,7 @@
  * [Hash](https://docs.google.com/presentation/d/1WY3c5LuhFa1KxhB71P34aTccJ_4oIc1F05pgvp0LKi8/edit?usp=sharing)
  ----
  * [Heap](https://docs.google.com/presentation/d/1FdnS21mnigkWIKG-zr5zBrjPdD1SbEvJ18FAcbaXIjs/edit?usp=sharing)
+    * [Heap Vector C++](/heap_vector.cpp)
  * [Graph](https://docs.google.com/presentation/d/1vONKil8zCh_Sf6rS1Co14eEIAmCT5u5_dasY6ldQL6Q/edit?usp=sharing)
     * [Graph Vector C++](/graph_vector.cpp)
     * [Graph Class C++](/graph_class.cpp)
