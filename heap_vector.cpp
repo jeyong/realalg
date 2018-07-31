@@ -71,7 +71,7 @@ T Heap<T>::GetLeft(int index)
 template<typename T>
 int Heap<T>::GetLeftIndex(int index)
 {
-	return 2 * i + 1;
+	return 2 * index + 1;
 }
 
 template<typename T>
