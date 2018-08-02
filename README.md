@@ -5,11 +5,13 @@
  * [Stack and Queue](https://docs.google.com/presentation/d/1jo3JhPSqsTIrZ2j4ThV6V6PWoulnn8z0M10aC9mzGqE/edit?usp=sharing)
     * [LinkedListQueue C++](/linkedlistqueue.cpp)
     * [CircularQueue C++](/circularqueue.cpp)
+    * [Stack Python](/stack.py)
+    * [Queue Python](/queue.py)
  * [Recursion](https://docs.google.com/presentation/d/16ljHlc9JaSD_pqV1YAyPojeH9-GmT_Nz0ie4qTEZTU4/edit?usp=sharing)
  * [Tree](https://docs.google.com/presentation/d/1zwJu2Z7mBg5znWhcyU1_C85Fzb27sCBTGzvFnpD0JFQ/edit?usp=sharing)
    * [Binary Search Tree C++](/bst.cpp)
    * [Binary Search Tree Class C++](/bst_class.cpp)
-
+   * [Binary Search Tree Python](/bst.py)
  * [Hash](https://docs.google.com/presentation/d/1WY3c5LuhFa1KxhB71P34aTccJ_4oIc1F05pgvp0LKi8/edit?usp=sharing)
  ----
  * [Heap](https://docs.google.com/presentation/d/1FdnS21mnigkWIKG-zr5zBrjPdD1SbEvJ18FAcbaXIjs/edit?usp=sharing)
@@ -17,6 +19,7 @@
  * [Graph](https://docs.google.com/presentation/d/1vONKil8zCh_Sf6rS1Co14eEIAmCT5u5_dasY6ldQL6Q/edit?usp=sharing)
     * [Graph Vector C++](/graph_vector.cpp)
     * [Graph Class C++](/graph_class.cpp)
+    * [Graph matrix Python](/graph_matrix.py)
     * [Graph list Python](/graph_bft.py)
     * [Graph Dijkstra Python](/graph_dij.py)
  * [Sorting](https://docs.google.com/presentation/d/1IqxaTjbMVcvF-RsSjsy65PJ2ExCeBnA7ZOjQgW037j8/edit?usp=sharing)
