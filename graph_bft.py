@@ -4,7 +4,7 @@ class Graph:
         self.vertexs={"S":["A", "B"], "A":["F"], "B": ["A", "F"], "F": None}
 
     def __str__(self):
-        print(str(self.vertexs))
+        return str(self.vertexs)
 
     def BFT(self, start):
         if list(self.vertexs.keys()).count(start) == 0 :
