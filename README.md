@@ -8,6 +8,8 @@
     * [Stack Python](/stack.py)
     * [Queue Python](/queue.py)
     * [Stack Javascript](/stack.js)
+    * [Queue Javascript](/queue.js)
+
  * [Recursion](https://docs.google.com/presentation/d/16ljHlc9JaSD_pqV1YAyPojeH9-GmT_Nz0ie4qTEZTU4/edit?usp=sharing)
  * [Tree](https://docs.google.com/presentation/d/1zwJu2Z7mBg5znWhcyU1_C85Fzb27sCBTGzvFnpD0JFQ/edit?usp=sharing)
    * [Binary Search Tree C++](/bst.cpp)
