@@ -15,6 +15,7 @@
    * [Binary Search Tree C++](/bst.cpp)
    * [Binary Search Tree Class C++](/bst_class.cpp)
    * [Binary Search Tree Python](/bst.py)
+   * [Tree Javascript](/tree.js)
  * [Hash](https://docs.google.com/presentation/d/1WY3c5LuhFa1KxhB71P34aTccJ_4oIc1F05pgvp0LKi8/edit?usp=sharing)
  ----
  * [Heap](https://docs.google.com/presentation/d/1FdnS21mnigkWIKG-zr5zBrjPdD1SbEvJ18FAcbaXIjs/edit?usp=sharing)
