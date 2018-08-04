@@ -14,6 +14,23 @@ function Tree() {
 
     this.traversal = traversal;
     this.addNode = addNode;
+    this.BFTraversal = BFTraversal;
+}
+
+function BFTraversal() {
+    q = [];
+    q.push(this.root);
+
+    while(q.length > 0) {
+        cur = q.shift();
+        console.log(cur.toString())
+        if (cur.left) {
+            q.push(cur.left);
+        }
+        if (cur.right) {
+            q.push(cur.right);
+        }
+    }
 }
 
 function traversal(node) {
@@ -73,5 +90,9 @@ t.addNode(1);
 t.addNode(2);
 t.addNode(3);
 t.addNode(4);
+
+console.log("Depth-First Test")
 t.traversal(t.root);
 
+console.log("Breadth-First Test")
+t.BFTraversal();
